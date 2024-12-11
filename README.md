@@ -1,9 +1,9 @@
-Applied different Data analysis methods In R to create a Reduced regression model that influences the salaries among programmers and engineers in the Silicon Valley in the Census year 2000, ultimately a better fit than the original data base model.
+Applied different data analysis methods in R to create a Reduced regression model that influenced the salaries among programmers and engineers in Silicon Valley in the year 2000 of the Census, ultimately a better fit than the original database model.
 
 
-The Reduced model is much better than the initial Base model based on fit, exaplining variance and, predictive capability.
+The Reduced model is much better than the initial Base model based on fit, explaining variance, and predictive capability.
 
-Following are the main data predictors in significance order:
+The following are the main data predictors in significance order:
 -Wage income (wageinc)
 -Education level (educ)
 -Age (age)
